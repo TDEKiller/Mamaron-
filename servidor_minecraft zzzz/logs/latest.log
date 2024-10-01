@@ -1,0 +1,82 @@
+[22Sep2024 00:01:01.755] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TDE_Killer lost connection: Timed out
+[22Sep2024 00:01:01.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TDE_Killer left the game
+[22Sep2024 00:01:09.782] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TDE_Killer[/127.168.93.120:38883] logged in with entity id 7695 at (-481.0987947371324, 91.0, -25.222197626159602)
+[22Sep2024 00:01:09.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TDE_Killer joined the game
+[22Sep2024 00:01:09.925] [Server thread/INFO] [spawnermod/]: Sending config to player.
+[22Sep2024 00:01:39.816] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TDE_Killer lost connection: Timed out
+[22Sep2024 00:01:39.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TDE_Killer left the game
+[22Sep2024 00:01:39.877] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[22Sep2024 00:01:55.084] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TDE_Killer[/127.168.93.120:38769] logged in with entity id 7847 at (-481.0987947371324, 91.0, -25.222197626159602)
+[22Sep2024 00:01:55.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TDE_Killer joined the game
+[22Sep2024 00:01:55.283] [Server thread/INFO] [spawnermod/]: Sending config to player.
+[22Sep2024 00:02:42.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TDE_Killer> a
+[22Sep2024 00:03:46.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TDE_Killer> zzzzzzzz
+[22Sep2024 00:07:10.510] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TDE_Killer lost connection: Timed out
+[22Sep2024 00:07:10.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TDE_Killer left the game
+[22Sep2024 00:07:21.865] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TDE_Killer[/127.168.93.120:50009] logged in with entity id 9931 at (-479.979193225526, 94.0, -35.22970537053301)
+[22Sep2024 00:07:21.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TDE_Killer joined the game
+[22Sep2024 00:07:21.945] [Server thread/INFO] [spawnermod/]: Sending config to player.
+[22Sep2024 00:07:25.109] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: psyoch lost connection: Disconnected
+[22Sep2024 00:07:25.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: psyoch left the game
+[22Sep2024 00:07:42.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TDE_Killer> a
+[22Sep2024 00:08:33.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TDE_Killer> a
+[22Sep2024 00:09:32.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TDE_Killer> a
+[22Sep2024 00:19:45.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made TDE_Killer a server operator
+[22Sep2024 00:20:06.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TDE_Killer: Set own game mode to Creative Mode]
+[22Sep2024 00:27:22.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TDE_Killer: Set own game mode to Survival Mode]
+[22Sep2024 00:27:29.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TDE_Killer: Set own game mode to Creative Mode]
+[22Sep2024 00:29:38.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TDE_Killer: Set own game mode to Survival Mode]
+[22Sep2024 00:30:25.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TDE_Killer: The difficulty has been set to Peaceful]
+[22Sep2024 00:30:38.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TDE_Killer> a
+[22Sep2024 00:30:42.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TDE_Killer: The difficulty has been set to Peaceful]
+[22Sep2024 00:31:00.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TDE_Killer: Set own game mode to Creative Mode]
+[22Sep2024 00:35:24.015] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TDE_Killer lost connection: Timed out
+[22Sep2024 00:35:24.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TDE_Killer left the game
+[22Sep2024 00:35:24.042] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[22Sep2024 00:35:37.515] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TDE_Killer[/127.168.93.120:41721] logged in with entity id 20723 at (-471.30000001192093, 63.200000047683716, -20.30000001192093)
+[22Sep2024 00:35:37.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TDE_Killer joined the game
+[22Sep2024 00:35:37.585] [Server thread/INFO] [spawnermod/]: Sending config to player.
+[22Sep2024 00:35:41.880] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TDE_Killer lost connection: Disconnected
+[22Sep2024 00:35:41.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TDE_Killer left the game
+[22Sep2024 00:35:46.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No entity was found
+[22Sep2024 00:36:42.310] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TDE_Killer[/127.168.93.120:47039] logged in with entity id 21366 at (-471.30000001192093, 63.200000047683716, -20.65859439074045)
+[22Sep2024 00:36:42.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TDE_Killer joined the game
+[22Sep2024 00:36:42.329] [Server thread/INFO] [spawnermod/]: Sending config to player.
+[22Sep2024 00:36:49.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TDE_Killer: Killed 815 entities]
+[22Sep2024 00:36:50.296] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2045ms or 40 ticks behind
+[22Sep2024 00:37:00.159] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TDE_Killer lost connection: Disconnected
+[22Sep2024 00:37:00.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TDE_Killer left the game
+[22Sep2024 00:37:05.311] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TDE_Killer[/127.168.93.120:36961] logged in with entity id 23660 at (-471.30000001192093, 63.200000047683716, -22.748864821287146)
+[22Sep2024 00:37:05.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TDE_Killer joined the game
+[22Sep2024 00:37:05.357] [Server thread/INFO] [spawnermod/]: Sending config to player.
+[22Sep2024 00:37:15.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TDE_Killer> kill @e[type=!player]
+[22Sep2024 00:37:34.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TDE_Killer> kill @e[type=!player]
+[22Sep2024 00:37:42.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TDE_Killer: Killed 952 entities]
+[22Sep2024 00:37:59.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TDE_Killer: Killed 293 entities]
+[22Sep2024 00:38:50.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TDE_Killer: Killed 326 entities]
+[22Sep2024 00:38:57.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TDE_Killer: Killed 253 entities]
+[22Sep2024 00:40:30.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TDE_Killer: Killed 216 entities]
+[22Sep2024 00:42:15.676] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: psyoch[/127.208.8.122:47991] logged in with entity id 26903 at (-359.6061513964566, 63.0, -47.10314253252521)
+[22Sep2024 00:42:15.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: psyoch joined the game
+[22Sep2024 00:42:15.744] [Server thread/INFO] [spawnermod/]: Sending config to player.
+[22Sep2024 00:43:31.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TDE_Killer: Set own game mode to Survival Mode]
+[22Sep2024 00:45:03.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TDE_Killer is bleeding. TDE_Killer was blown up by Creeper
+[22Sep2024 00:47:57.264] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TDE_Killer moved too quickly! -3.5013115078128294,0.0,-9.478189139482254
+[22Sep2024 00:48:54.422] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TDE_Killer moved too quickly! -9.265769111883913,-0.49520087700592086,4.638309530041695
+[22Sep2024 00:51:12.133] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TDE_Killer moved too quickly! 10.112969863846047,0.0,-0.6852796735958293
+[22Sep2024 00:53:42.408] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TDE_Killer lost connection: Disconnected
+[22Sep2024 00:53:42.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TDE_Killer left the game
+[22Sep2024 00:55:27.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[22Sep2024 00:55:27.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STOP<--[HERE]
+[22Sep2024 00:55:45.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[22Sep2024 00:55:46.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[22Sep2024 00:55:46.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[22Sep2024 00:55:46.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[22Sep2024 00:55:46.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[22Sep2024 00:55:53.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[22Sep2024 00:55:53.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[22Sep2024 00:55:53.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22Sep2024 00:55:53.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22Sep2024 00:55:53.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22Sep2024 00:55:53.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[22Sep2024 00:55:54.021] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
